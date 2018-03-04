@@ -3,7 +3,7 @@ puts "-----------starting program-----------"
 # strip removes "enter"(new line) from gets input
 puts "Hello, what is your first name?"
 first_name = gets.strip.capitalize
-
+#gets is what you type in on terminal
 puts "Cool, what is your last name?"
 last_name = gets.strip.capitalize
 # #{} is like a neater way of writing +.
