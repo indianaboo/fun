@@ -1,7 +1,3 @@
-#! usr/bin/ruby
-
-def space_saver(word)
-  word.gsub(/\s+/, "").strip
+loop do
+  puts "hello poop"
 end
-
-puts space_saver("      apple      ")

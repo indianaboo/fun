@@ -4,7 +4,7 @@ puts "--------------------------------------"
 puts ""
 puts "Welcome to the math quiz"
 
-print "1. 6 + 7 = "
+print "1. 6 + 7 ="
 
 guess = gets.strip
 
